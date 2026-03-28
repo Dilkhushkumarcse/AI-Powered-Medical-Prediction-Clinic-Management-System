@@ -1,5 +1,3 @@
-
-
 ---
 
 #  AI-Powered Medical Prediction & Clinic Management System
@@ -10,7 +8,7 @@ An **AI-powered healthcare platform** that predicts multiple diseases using a **
 
 ##  Key Features
 
-### 🔐 Role-Based Authentication
+### Role-Based Authentication
 
 * **Admin** – Full system control
 * **Doctor** – Patient management & treatment notes
@@ -66,7 +64,7 @@ TSH, Depression Score, Sex, Smoking, Symptoms
 
 ---
 
-## 🔄 System Flow
+## System Flow
 
 1. **Patient enters health data (Streamlit UI)**
 2. **Preprocessing pipeline** (scaling, encoding)
@@ -106,7 +104,7 @@ AIClinic/
 
 ---
 
-## ⚙️ Environment Setup (Windows)
+## Environment Setup (Windows)
 
 ### 🔹 Step 1: Activate Virtual Environment
 
@@ -170,7 +168,7 @@ streamlit run ai_clinic_dashboard.py
 
 ---
 
-## 👥 Default Login Credentials
+## Default Login Credentials
 
 ### 🔹 Admin
 
