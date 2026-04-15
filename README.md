@@ -231,22 +231,3 @@ Password: 123
 * **Explainability**: SHAP / LIME (optional)
 
 ---
-
-##  Future Enhancements
-
-* JWT authentication
-* Cloud deployment (AWS / Azure)
-* Model retraining pipeline
-* Email notifications
-* Mobile-friendly UI
-
----
-
-##  Author
-
-**Dilkhush Kumar**
-Computer Science Engineering
-AI | Machine Learning | Data Science
-
----
-
